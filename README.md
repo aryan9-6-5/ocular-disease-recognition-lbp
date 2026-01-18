@@ -288,7 +288,7 @@ We evaluated three state-of-the-art deep learning architectures for cataract det
 
 ### Visual Performance Analysis
 
-![Model Performance Comparison](results\graph.png)
+![Model Performance Comparison](comparison.png)
 
 *Figure 1: Comparative analysis of model performance across training and validation metrics*
 

@@ -69,3 +69,5 @@ src/**/*
 !results/**/*.jpeg
 !results/**/*.svg
 !results/**/*.gif
+
+!comparison.png
