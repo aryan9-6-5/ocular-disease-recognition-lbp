@@ -1,0 +1,52 @@
+# Data files
+*.csv
+*.h5
+*.pkl
+*.npy
+
+# Large files
+*.pdf
+*.pptx
+*.key
+*.zip
+
+# Kaggle files
+kaggle.json
+
+# Research papers
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+data/**/*
+!data/
+!data/raw/
+!data/processed/
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/.gitkeep
+
+models/**/*
+!models/
+!models/.gitkeep
+
+src/**/*
+!src/
+!src/.gitkeep
